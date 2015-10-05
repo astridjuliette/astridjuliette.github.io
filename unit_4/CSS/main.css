@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Lato|Montserrat|Sigmar+One|Pacifico);
+
+body{
+  text-align: center;
+  background-image: url("http://tovtov.com/wp-content/uploads/furniture-inspiration-eye-catching-dark-gray-sofa-fabric-materials-with-two-seat-modern-living-couch-as-decorate-modern-living-room-furnishing-decors-classy-gray-sofa-modern-design-for-living-room-fu.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Lato;
+}
+
+#slogan{
+	font-family: Pacifico;
+	font-style: italic;
+}
+
+h1{
+	color: #000;
+	font-family: Sigmar+One;
+}
+
+ul{
+	list-style-type: none;
+}
+
+
+a{
+	color:#fff;
+}
